@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My name is Yuklin Chen and I'm an intelligent organic matter living in galaxy.
+My name is Yulin Chen and I'm an intelligent organic matter living in galaxy.
 
 ## Skills
 - Gaming
