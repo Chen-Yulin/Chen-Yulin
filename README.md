@@ -14,4 +14,4 @@ My name is Yulin Chen and I'm an intelligent organic matter living in galaxy.
   - WW2 Naval
 - Tactics
 
-![Your github stats](https://github-readme-stats.vercel.app/api?username=Chen-Yulin&show_icons=true&theme=radical)
+![Github stats](https://github-readme-stats.vercel.app/api?username=Chen-Yulin&show_icons=true&theme=radical)
