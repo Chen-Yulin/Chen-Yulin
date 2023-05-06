@@ -15,3 +15,4 @@ My name is Yulin Chen and I'm an intelligent organic matter living in galaxy.
 - Tactics
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Chen-Yulin&show_icons=true&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Chen-Yulin&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
