@@ -3,7 +3,7 @@ name: README build
 on:
   push:
     branches:
-      - main
+      - master
   schedule:
     - cron: '0 */6 * * *'
 
@@ -31,4 +31,3 @@ jobs:
         uses: mikeal/publish-to-github-action@1.0.0
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          BRANCH_NAME: 'main'
