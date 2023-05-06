@@ -1,0 +1,22 @@
+{
+  "name": "dynamic-profile",
+  "version": "1.0.0",
+  "description": "for dynamic github profile",
+  "main": "index.js",
+  "scripts": {
+    "test": "pf"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chen-Yulin/Chen-Yulin.git"
+  },
+  "author": "Chen-Yulin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chen-Yulin/Chen-Yulin/issues"
+  },
+  "homepage": "https://github.com/Chen-Yulin/Chen-Yulin#readme",
+  "dependencies": {
+    "mustache": "^4.2.0"
+  }
+}
