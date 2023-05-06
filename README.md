@@ -48,6 +48,7 @@ My name is Yulin Chen and I'm an intelligent organic matter living in galaxy.
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
 <a href="https://neovim.io/" target="_blank"><img style="margin: 10px" src="https://pic4.zhimg.com/v2-e5494a3e5fcf280a2be79e929b193293_1440w.jpg" alt="Nvim" height="50" /></a>  
+<a href="https://www.lua.org/" target="_blank"><img style="margin: 10px" src="https://pic3.zhimg.com/v2-f9675ec50c64f7af3b2971fc87bd895c_b.jpg" alt="Lua" height="50" /></a>  
 </div>
 
 </td></tr></table>  
@@ -69,4 +70,4 @@ My name is Yulin Chen and I'm an intelligent organic matter living in galaxy.
 
 ---
 
-This **README** is updated on Saturday, 6 May, 10:45 GMT+8
+This **README** is updated on Saturday, 6 May, 10:49 GMT+8
