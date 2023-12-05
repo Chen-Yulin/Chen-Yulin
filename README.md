@@ -67,7 +67,8 @@ My name is Yulin Chen and I'm an intelligent organic matter living in galaxy.
   <img src="http://github-readme-streak-stats.herokuapp.com?user=Chen-Yulin&theme=dark" align="center" />
   -->
 </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=Chen-Yulin&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
-This **README** is updated on Tuesday, 5 December, 09:20 GMT+8
+This **README** is updated on Tuesday, 5 December, 12:42 GMT+8
