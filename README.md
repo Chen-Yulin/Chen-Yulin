@@ -1,6 +1,7 @@
 # Hi there 👋
 
-My name is Yulin Chen and I'm an intelligent organic matter living in galaxy and you can always bribe me with a piece of chocolate🍫.
+My name is Yulin Chen and I'm an intelligent organic matter living in galaxy.
+
 
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=81513548" target="_blank" style="display: block" align="center">
   <picture>
@@ -20,4 +21,4 @@ My name is Yulin Chen and I'm an intelligent organic matter living in galaxy and
 
 ---
 
-This **README** is updated on Wednesday, 18 December, 14:32 GMT+8
+This **README** is updated on Wednesday, 18 December, 20:19 GMT+8
